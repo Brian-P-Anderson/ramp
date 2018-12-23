@@ -1,10 +1,10 @@
-##### ramp
+# ramp
 ### YelpCampRefactored
-# YelpCamp
+##### YelpCamp
 
-# by Colt Steele
+##### by Colt Steele
 ### Refactored by Ian Schoonover
-##### Refactored by Brian P. Anderson
+# Refactored by Brian P. Anderson
 
 I would like to use the excellent YelpCamp example to build a template for
 node apps that I can use to lift up small websites for people. I would like
